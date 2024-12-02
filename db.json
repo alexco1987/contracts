@@ -1,34 +1,31 @@
 {
-  "contracts": [
+  "posts": [
     {
       "id": 1,
-      "Name": "Contract 1",
-      "Co": "RV",
-      "Prod": "0",
-      "Description": "GAP WAIVER",
-      "Claims": "0",
-      "Status": "A",
-      "Contract No": "07367565610"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "Name": "Contract 2",
-      "Co": "RV",
-      "Prod": "0",
-      "Description": "GAP WAIVER",
-      "Claims": "0",
-      "Status": "A",
-      "Contract No": "07067565688"
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "Name": "Contract 3",
-      "Co": "RV",
-      "Prod": "0",
-      "Description": "GAP WAIVER",
-      "Claims": "0",
-      "Status": "A",
-      "Contract No": "07067557159"
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
-  ]
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
