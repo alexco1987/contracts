@@ -1,0 +1,34 @@
+{
+  "contracts": [
+    {
+      "id": 1,
+      "Name": "Contract 1",
+      "Co": "RV",
+      "Prod": "0",
+      "Description": "GAP WAIVER",
+      "Claims": "0",
+      "Status": "A",
+      "Contract No": "07367565610"
+    },
+    {
+      "id": 2,
+      "Name": "Contract 2",
+      "Co": "RV",
+      "Prod": "0",
+      "Description": "GAP WAIVER",
+      "Claims": "0",
+      "Status": "A",
+      "Contract No": "07067565688"
+    },
+    {
+      "id": 3,
+      "Name": "Contract 3",
+      "Co": "RV",
+      "Prod": "0",
+      "Description": "GAP WAIVER",
+      "Claims": "0",
+      "Status": "A",
+      "Contract No": "07067557159"
+    },
+  ]
+}
